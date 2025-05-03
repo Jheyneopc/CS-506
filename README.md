@@ -1,4 +1,4 @@
-PE04
+
 PE04 - Wine Review Data Visualization
 
 Description
