@@ -9,8 +9,6 @@ Tools Used
 - pandas
 - matplotlib
 
-Tasks Completed
-
 Part 1: Bar Chart of Wine Scores
 - Used `value_counts()` to count wine review scores from the `points` column.
 - Displayed results in a bar chart.
