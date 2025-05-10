@@ -1,3 +1,26 @@
+PE05
+
+Task Overview:
+ PE05 - Image Enhancement with PIL
+ In this exercise, I used the Python Pillow (PIL) library to apply a series of image filters and enhancement techniques.
+ The goal was to improve the quality of a dark image (PE05-input.jpg) using filters like histogram equalization, unsharp masking, and contrast enhancement.
+ Tools Used:- Pillow (PIL) - For image processing- Matplotlib - For displaying images
+ Steps Performed:
+ 1. Original Image Displayed
+   - Observed 2 people in the image.
+ 2. Histogram Equalization
+   - Improved brightness and contrast.
+   - Now, 4 tree trunks are clearly visible along the left sidewalk.
+ 3. Unsharp Mask
+   - Applied to enhance edge clarity.
+   - Helped reveal 2 windows on the second floor of building 1 (label 1).
+ 4. Contrast Boost
+   - Made the image more readable.
+   - Helped identify about 3 windows on building 2 (label 2).
+ Final Output:
+ The enhanced image was saved as PE05-output.jpg and visually analyzed to answer the following questions:
+ Observations:- People in image: 2- Trees visible: 4 trunks- Windows on 2nd floor (building 1): 2
+- Windows on building 2: about 3
 
 PE04 - Wine Review Data Visualization
 
