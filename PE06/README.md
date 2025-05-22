@@ -1,3 +1,9 @@
+PE06
+**Summary:**
+This experiment focused on understanding how different scaleFactor and minNeighbors settings affect an eye detection algorithm's performance. First, I established a ground truth by carefully marking eye coordinates on our training images. The main way it was measured performance was by calculating the average distance between the detected eye centers and our labeled ground truth points.
+
+During the training phase, it systematically explored many parameter combinations. The goal was to find the specific scaleFactor and minNeighbors pair that gave the lowest average distance on the training set. Once I found those optimal settings, I then used them to test the algorithm on a separate set of new images, and I reported the overall average distance for this testing phase. Finally, visualizing these results helped me clearly see how changing the parameters impacted the algorithm's detection accuracy.
+
 PE05
 
 Task Overview:
