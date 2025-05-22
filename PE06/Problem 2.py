@@ -8,3 +8,4 @@ def add_digits(num):
     return num
 
 print("Add digits of 38:", add_digits(38))
+
